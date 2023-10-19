@@ -5,3 +5,4 @@
 
 <img src="https://github.com/FagnerLincoln/Criando-um-README.md-dos-projetos/blob/main/assets/easyDesktop.png?raw=true" />
 
+<img src="https://github.com/FagnerLincoln/Criando-um-README.md-dos-projetos/blob/main/assets/easy%20cell.png?raw=true"/>
