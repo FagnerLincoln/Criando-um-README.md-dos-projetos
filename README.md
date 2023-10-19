@@ -2,6 +2,16 @@
 <br>
 <br>
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub"> DevClub </a></h2>
+<h2>Tecnologias Utilizadas</h2>
+<br>
+<P>- HTML</P>
+
+<P>- CSS</P>
+
+- PROJETO RESPONSIDADE 
+
+<br>
+<br>
 
 <img src="https://github.com/FagnerLincoln/Criando-um-README.md-dos-projetos/blob/main/assets/easyDesktop.png?raw=true" />
 
